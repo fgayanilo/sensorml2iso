@@ -14,7 +14,7 @@ _EPILOG = """
 SOS_URLS = [
     'http://sos.aoos.org/sos/sos/kvp',
     'http://sos.cencoos.org/sos/sos/kvp',
-    'http://data.gcoos.org:8080/52nSOS/sos/kvp',
+    'http://gcoos2.tamu.edu:8080/52nSOS/sos/kvp',
     'http://sos.glos.us/52n/sos/kvp',
     'http://data.nanoos.org/52nsos/sos/kvp',
     'http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/SOS',
